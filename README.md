@@ -11,7 +11,6 @@ This is a FastAPI project that demonstrates CRUD operations with a MySQL databas
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Hrudayesh-yaddala/python-fastapi
-   cd fastapi_project
    ```
 
 2. **Create a virtual environment**:
